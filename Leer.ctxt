@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Leer
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=archivo\ palabra
+comment2.target=void\ buscarPalabra(java.io.File,\ java.lang.String)
+numComments=3
